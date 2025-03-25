@@ -43,5 +43,14 @@ const styles = StyleSheet.create({
         marginBottom: 20
     }
 })
+/*resizeMode
+
+cover - cobre todo o espaço disponivel
+contain - ajusta a imagem sem cortar
+stretch - deforma a imagem para caber
+repeat - repete a imagem (IOS)
+center - sentraliza a imagem sem redimensionar
+
+*/ 
 
 export default PerfilJhonLennon;
